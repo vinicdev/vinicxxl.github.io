@@ -98,8 +98,10 @@
 	/* Banner */
 
 	.banner h1{
-		font-size: 55px;
-		margin-top: 20px;
+		font-size: 45px;
+		margin-top: 60px;
+		text-align: center;
+
 	}
 	.banner a{
 		font-size: 17px;
