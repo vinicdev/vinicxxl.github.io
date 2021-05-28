@@ -1,0 +1,20 @@
+@media only scren and (max-width: 787px){
+	.header img{
+		margin-left: 95px;
+	}
+	.header{
+		position: relative;
+		height: 390px;
+	}
+	.topo{
+		text-align: center;
+	}
+	.topo ul li a{
+		display: block;
+		float: left;
+		padding: 5px;
+		border: 2px solid white;
+		width: 220px;
+		padding: 10px;
+	}
+}
