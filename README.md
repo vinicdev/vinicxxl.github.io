@@ -1,0 +1,27 @@
+# Cri cri Festas
+
+### Site estático criado apenas com duas tecnologias, para uma empresa de festas. Feito apenas para apresentar produtos e também redirecionar os cliente para o aplicatico Whatsapp.
+
+Veja o resultado: <a href="https://vinicxxl.github.io">Clique aqui</a>
+
+## Tecnologias
+
+- HTML
+- CSS
+
+
+
+
+### Autor
+---
+
+<a href="https://blog.rocketseat.com.br/author/thiago/">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/75495504?s=400&u=cdd1c325eddc3e3ff2552e9da4e2fd13562ab59e&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Vinicius Cardoso</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
+
+
+👋🏽 Entre em contato!
+
+ [![Linkedin Badge](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-cardoso-83410b195/)](https://www.linkedin.com/in/tgmarinho/) 
+[![Gmail Badge](https://img.shields.io/badge/-vinic8670@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinic8670@gmail.com)](mailto:tgmarinho@gmail.com)
