@@ -235,7 +235,8 @@ img{
 	height: 50px;
 	background: #b5055f;
 }
-.footer h3{
+.footer a{
+	text-decoration: none;
 	font-family: lato;
 	font-size: 20px;
 	color: white;

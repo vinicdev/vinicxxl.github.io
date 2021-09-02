@@ -15,10 +15,10 @@ Veja o resultado: <a href="https://vinicxxl.github.io">Clique aqui</a>
 ### Autor
 ---
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
+<a href="https://bio.vercel.app">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/75495504?s=400&u=cdd1c325eddc3e3ff2552e9da4e2fd13562ab59e&v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Vinicius Cardoso</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
+ <sub><b>Vinicius Cardoso</b></sub></a> <a href="https://bio.vercel.app" title="vini">🚀</a>
 
 
 👋🏽 Entre em contato!
