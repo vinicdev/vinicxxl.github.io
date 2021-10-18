@@ -23,5 +23,5 @@ Veja o resultado: <a href="https://vinicxxl.github.io">Clique aqui</a>
 
 👋🏽 Entre em contato!
 
- [![Linkedin Badge](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-cardoso-83410b195/)](https://www.linkedin.com/in/vinicius-cardoso-83410b195/) 
+ [![Linkedin Badge](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-cardoso-83410b195/)](https://www.linkedin.com/in/viniccardoso/) 
 [![Gmail Badge](https://img.shields.io/badge/-dev.viniciuscardoso@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinic8670@gmail.com)](mailto:dev.viniciuscardoso@gmail.com)
